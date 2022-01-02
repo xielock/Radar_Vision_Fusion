@@ -9,8 +9,8 @@ LastEditTime: 2021-07-12 12:08:44
 '''
 import sys
 #import untitled
-import untitled_listen_ui
-from untitled_listen_ui import Ui_MainWindow1
+import subscribe_ui
+from subscribe_ui import Ui_MainWindow1
 from PyQt5.QtWidgets import QApplication , QMainWindow, QWidget
 from PyQt5.QtGui import QColor, QPixmap, QIcon, QPalette,QBrush
 from PyQt5 import QtCore, QtWidgets
