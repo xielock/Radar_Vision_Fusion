@@ -5,7 +5,7 @@ Description:
 Author: xielock
 Date: 2021-06-17 18:54:06
 LastEditors: xie
-LastEditTime: 2021-07-10 10:27:09
+LastEditTime: 2022-01-02 20:10:46
 '''
 
 import sys
@@ -19,7 +19,7 @@ from PyQt5.QtWidgets import QListView
 @param {*}
 @return {*}
 '''
-class QNodeL(QThread):
+class QNodeL(QThread): 
     updateLog = pyqtSignal() ## create a signal to emit when the listview updates
     updateLog2 = pyqtSignal()
     def __init__(self, text):
