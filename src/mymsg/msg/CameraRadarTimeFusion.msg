@@ -1,0 +1,2 @@
+mymsg/RadarDataPerSec radar_data
+mymsg/CameraDataPerSec camera_data
