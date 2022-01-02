@@ -27,7 +27,7 @@ from PyQt5.QtWidgets import *
 from QLabel_override import BtnLabel
 import cv2
 import numpy as np
-from untitled_listen import QNodeL
+from QNode import QNodeL
 from mymsg.msg import CameraRadarTimeFusion
 from mymsg.msg import CameraDataPerSec
 from mymsg.msg import RadarDataPerSec
