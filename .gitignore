@@ -1,2 +1,4 @@
 *.pyc
 .*
+.catkin_workspace
+.gitignore
