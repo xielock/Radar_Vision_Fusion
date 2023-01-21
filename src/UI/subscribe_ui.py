@@ -32,8 +32,7 @@ from mymsg.msg import CameraRadarTimeFusion
 from mymsg.msg import CameraDataPerSec
 from mymsg.msg import RadarDataPerSec
 from mymsg.msg import RadarData
-from line_recog.msg import origin_and_result
-from xie.msg import origin_and_result_yolo
+from yolo_detection.msg import origin_and_result_yolo
 import mymsg.msg
   
 
