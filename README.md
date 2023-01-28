@@ -1,5 +1,5 @@
 # Sensor_Data_Fusion
-## introduction
+## Introduction
 
 This is a program that fuses mmWave radar and camera  information. At the same time, YOLOv4 is used for target detection.  The program focus on the spatio-temporal alignment of camera and mmWave radar, and radar target points are mapped into camera images. The detection part is not  completed, the method used now is simple. 
 ## Requirements
@@ -13,7 +13,7 @@ This is a program that fuses mmWave radar and camera  information. At the same t
 
 >  If you use Jetson Nano or TX2, JetPack can get all the required above, and my installation version is JetPack3.3
 
-## installation
+## Installation
 
 create a ROS workspace and copy the repo to the workspace
 
